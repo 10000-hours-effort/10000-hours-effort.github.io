@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://cdn.jsdelivr.net/gh/Withnoidea/picgo@main/images/a650ac9e90287630b281037f24a7636.jpg"
   name             : "Withnoidea"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "He/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "China JiangSu"
   employer         : "Wield Chicken University"
   uri              : # URL
   email            : "none@example.org" 
